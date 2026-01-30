@@ -193,10 +193,7 @@ export default function Home() {
                   </div>
                 </div>
 
-                {/* Dot */}
-                <div className="absolute left-0 md:left-1/2 -translate-x-1/2 w-[60px] h-[60px] rounded-full bg-[#111] border border-white/20 flex items-center justify-center z-10 shadow-[0_0_20px_rgba(0,0,0,0.5)]">
-                  <div className="w-2 h-2 bg-white rounded-full"></div>
-                </div>
+
 
                 {/* Spacer for layout balance */}
                 <div className="hidden md:block flex-1"></div>
